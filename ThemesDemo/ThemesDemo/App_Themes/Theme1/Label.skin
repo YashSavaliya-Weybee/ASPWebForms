@@ -1,0 +1,6 @@
+﻿<asp:Label runat="server" Text="This is Label"
+                          BackColor="Yellow" 
+                          BorderColor="#009900" 
+                          Font-Names="Chiller"
+                          Font-Size="XX-Large"
+                          ForeColor="Red"></asp:Label>
